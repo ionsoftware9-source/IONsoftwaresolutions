@@ -1,0 +1,9 @@
+<svg width="720" height="900" viewBox="0 0 720 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="900" fill="#071A33"/>
+  <rect x="48" y="48" width="624" height="804" rx="24" fill="#0B2B54"/>
+  <circle cx="360" cy="320" r="116" fill="#12C7E8" fill-opacity="0.92"/>
+  <path d="M170 724C196 612 267 548 360 548C453 548 524 612 550 724" fill="#12C7E8" fill-opacity="0.55"/>
+  <path d="M126 116H594" stroke="white" stroke-opacity="0.2" stroke-width="4"/>
+  <path d="M126 784H594" stroke="white" stroke-opacity="0.2" stroke-width="4"/>
+  <text x="360" y="824" text-anchor="middle" fill="white" fill-opacity="0.82" font-family="Arial, sans-serif" font-size="28" font-weight="700">Add Your Photo</text>
+</svg>
